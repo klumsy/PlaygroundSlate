@@ -1,0 +1,12 @@
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/bin/Debug/net5.0/FirstCmdLet.deps.json
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/bin/Debug/net5.0/FirstCmdLet.dll
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/bin/Debug/net5.0/ref/FirstCmdLet.dll
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/bin/Debug/net5.0/FirstCmdLet.pdb
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/obj/Debug/net5.0/FirstCmdLet.csprojAssemblyReference.cache
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/obj/Debug/net5.0/FirstCmdLet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/obj/Debug/net5.0/FirstCmdLet.AssemblyInfoInputs.cache
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/obj/Debug/net5.0/FirstCmdLet.AssemblyInfo.cs
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/obj/Debug/net5.0/FirstCmdLet.csproj.CoreCompileInputs.cache
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/obj/Debug/net5.0/FirstCmdLet.dll
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/obj/Debug/net5.0/ref/FirstCmdLet.dll
+/Users/karlprosser/dev/PlaygroundSlate/PowerShellSwift/FirstCmdLet/FirstCmdLet/FirstCmdLet/obj/Debug/net5.0/FirstCmdLet.pdb
